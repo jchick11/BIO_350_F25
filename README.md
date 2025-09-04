@@ -8,3 +8,6 @@ IC Assignment 1: Chapter 1 of Ecology Handbook
 - It works!
 
 IC Assignment 2: Chapter 2 of Ecology Handbook
+- Making an exponential equation to measure how quickly duckweed covers a pond
+- Minimal technical difficulties but better
+- Installed matplotlib and made our first plot!
