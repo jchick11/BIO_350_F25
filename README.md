@@ -15,7 +15,7 @@ IC Assignment 2: Chapter 2 of Ecology Handbook
 IC_InClass1.ipynb
 - Here we used the code from IC Assignment 2 to make a logarithmic graph and we used else if statements to change the rate of growth of duckweed based on the total area covered.
 
-IC_Assignment.ipynb
+IC_Assignment3.ipynb
 - Made a logistic growth model almost all by myself
 - Originally I had a somewhat decent one that reached carrying capacity way too fast but it was still logistic
 - Once I figured out how to properly add the birth and death rates the growth sloped out more and the model was more like what we expected
