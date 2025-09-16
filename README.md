@@ -19,3 +19,8 @@ IC_Assignment3.ipynb
 - Made a logistic growth model almost all by myself
 - Originally I had a somewhat decent one that reached carrying capacity way too fast but it was still logistic
 - Once I figured out how to properly add the birth and death rates the growth sloped out more and the model was more like what we expected
+
+IC_InClassExample2.ipynb
+- For this we installed pandas
+- We then imported data and made a graph out of it showing population growth
+- We then used copilot to add a line of the carrying capacity and change around our axises and line color
