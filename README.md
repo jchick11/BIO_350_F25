@@ -24,3 +24,10 @@ IC_InClassExample2.ipynb
 - For this we installed pandas
 - We then imported data and made a graph out of it showing population growth
 - We then used copilot to add a line of the carrying capacity and change around our axises and line color
+
+IC_Assignment4.ipynb
+- For this assignment we were once again using a log equation but adding in competition between two species
+- I started with my code from assignment 3
+- I figured out that my code was a little repetitive so we were able to take out a good chunk of it
+- Then I added in the section that shows the growth of the other species for their competition
+- After plotting the results you are able to see how the competition drives one of the species to extinction
