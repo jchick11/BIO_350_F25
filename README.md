@@ -33,6 +33,6 @@ IC_Assignment4.ipynb
 - After plotting the results you are able to see how the competition drives one of the species to extinction
 
 IC_Assignment5.ipynb
--Here we set up an SIR model in order to monitor the health states of a population of foxes under the threat of rabies
--The equations were relatively easy to set up, however I did miss a few of the variables in terms of naming things in order to build off of earlier numbers. Because of this I used copilot to try to get thigns organized better because it wouldn't show me my results. SO after getting help with renaming things to better organize my data I put the beggining values back in and was finaly able to see my results.
-I then used plotting code from a previous assignment and edited it to show all three lines and our time frame of 30 days.
+- Here we set up an SIR model in order to monitor the health states of a population of foxes under the threat of rabies
+- The equations were relatively easy to set up, however I did miss a few of the variables in terms of naming things in order to build off of earlier numbers. Because of this I used copilot to try to get thigns organized better because it wouldn't show me my results. SO after getting help with renaming things to better organize my data I put the beggining values back in and was finaly able to see my results.
+- I then used plotting code from a previous assignment and edited it to show all three lines and our time frame of 30 days.
