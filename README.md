@@ -36,3 +36,11 @@ IC_Assignment5.ipynb
 - Here we set up an SIR model in order to monitor the health states of a population of foxes under the threat of rabies
 - The equations were relatively easy to set up, however I did miss a few of the variables in terms of naming things in order to build off of earlier numbers. Because of this I used copilot to try to get thigns organized better because it wouldn't show me my results. SO after getting help with renaming things to better organize my data I put the beggining values back in and was finaly able to see my results.
 - I then used plotting code from a previous assignment and edited it to show all three lines and our time frame of 30 days.
+
+IC_Example3.ipynb
+- Today we downloaded some of Dr Carters R Code from his Bsal paper
+- We brought it in to VS Code and had Copilot translate it into python script for us
+- After trying to run the first section of it we had trouble because the scipy.integrate couldn't be found
+- Because of this we had to open a terminal to download scipy with conda. I had trouble with this because I accidentally downloaded it to the wrong file initially but I figured out how to fix it on my own!
+- After downloaded that I split my code up and ran the different sections. I had trouble with my plotting one but it was because I forgot to bring in the times we had outlined in the previous section so it left the times undefined in the plotting
+- I can tell I'm getting much better at reading errors and understanding how to fix my code
