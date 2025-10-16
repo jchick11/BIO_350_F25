@@ -44,3 +44,8 @@ IC_Example3.ipynb
 - Because of this we had to open a terminal to download scipy with conda. I had trouble with this because I accidentally downloaded it to the wrong file initially but I figured out how to fix it on my own!
 - After downloaded that I split my code up and ran the different sections. I had trouble with my plotting one but it was because I forgot to bring in the times we had outlined in the previous section so it left the times undefined in the plotting
 - I can tell I'm getting much better at reading errors and understanding how to fix my code
+
+IC_AssignmentMatrix.ipynb
+- This was a cool assignment where we combined and simplified the growth and death rates of three separate populations
+- I think where we hadn't had class in a few days I was a little rusty in my coding because I kept having trouble having variables being undefined so I had to make sure everything was lined up right and I had to use copilot a few times to get things to work right.
+- The main area where I had to use copilot was when we switched from 50 to 150 years. Somehow I had set my Y axis to only have 50 values and I had to have copilot fix it to where x and y had the same values.
