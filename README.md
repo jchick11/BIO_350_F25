@@ -50,8 +50,12 @@ IC_AssignmentMatrix.ipynb
 - I think where we hadn't had class in a few days I was a little rusty in my coding because I kept having trouble having variables being undefined so I had to make sure everything was lined up right and I had to use copilot a few times to get things to work right.
 - The main area where I had to use copilot was when we switched from 50 to 150 years. Somehow I had set my Y axis to only have 50 values and I had to have copilot fix it to where x and y had the same values.
 
-IC_Assignment4.ipynb
+IC_Example4.ipynb
 - Here we added on to our matrixes we made on last Thursday
 - We used chat to come up with what type of population we were looking at (voles), and I also used chat to give me the initial population values for each age group, reproduction rates, and death rates.
 - Where we originally had only three groups on Thursday we now had five and different rates so we had to add those.
 - Here I made sure every age group had an initial population as well. 
+
+IC_Assignment.7.ipynb
+- Here I used my old matrix code to make a succession plot for trees in a forest
+- I also edited my old matrix to make an extinction probability for butterflies on two plots of land.
