@@ -59,3 +59,9 @@ IC_Example4.ipynb
 IC_Assignment.7.ipynb
 - Here I used my old matrix code to make a succession plot for trees in a forest
 - I also edited my old matrix to make an extinction probability for butterflies on two plots of land.
+
+IC_Assignment8.ipynb
+- Today we set up code to do probabilities
+- At first I had a horrible time trying to do this because I was using copilot
+- After about 30 minutes of struggling I switched to just doing it on my own and it got much much better
+- This helped me feel much more confident in my coding abilities
