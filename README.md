@@ -65,3 +65,8 @@ IC_Assignment8.ipynb
 - At first I had a horrible time trying to do this because I was using copilot
 - After about 30 minutes of struggling I switched to just doing it on my own and it got much much better
 - This helped me feel much more confident in my coding abilities
+
+IC_SciKitLearn
+- Here we downloaded and sklearn-env in order to copy and work with code from SciKitLearn
+- I had some issues with Anaconda and I missed a big section of code as well so I had trouble getting the code to work for a while
+- Enventually I worked through my mistakes and was able to make a k-means clustering graph
