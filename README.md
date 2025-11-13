@@ -70,3 +70,9 @@ IC_SciKitLearn
 - Here we downloaded and sklearn-env in order to copy and work with code from SciKitLearn
 - I had some issues with Anaconda and I missed a big section of code as well so I had trouble getting the code to work for a while
 - Enventually I worked through my mistakes and was able to make a k-means clustering graph
+
+IC_SciKitLearn_Example2
+- Here we imported data from canvas and used code from SciKitLearn to create a heat map between Temp, Salinity, and Nitrate.
+- These used layers and nodes to find connections between the three variables.
+- Its called a neural network that gives us a connection between x and y
+- In this case we split our data to an example of 80% of the data and then tested that against the other 20% which is what you see in our neural network.
